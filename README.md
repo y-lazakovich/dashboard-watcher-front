@@ -1,4 +1,41 @@
-# WatcherDashboard
+# Dashboard Actuator
+
+## Overview
+
+![app.jpg](docs/app.jpg)
+
+- [Roadmap](#roadmap)
+  - [1st](#simple-round)
+  - [2nd](#second-round)
+  - [3rd](#hard-round)
+- [Angular](#angular)
+  - [Development server](#local-run-is-stable)
+  - [Code scaffolding](#code-scaffolding)
+  - [Build](#build)
+  - [Running unit tests](#running-unit-tests)
+  - [Running end-to-end tests](#running-end-to-end-tests)
+  - [Further help](#further-help)
+
+
+## Roadmap
+
+### Simple Round
+- [x] Readme
+- [x] Realize [backend](https://github.com/y-lazakovich/dashboard-watcher-back)
+- [x] Make a template with [front](docs/app.jpg)
+- [ ] Implement unit tests
+- [ ] Implement CheckStyle
+
+### Second Round
+- [ ] GitHub Issue Board
+- [ ] Realize GitHub Action flow (CI)
+- [ ] Implement Redux (RxJS) for state management
+
+### Hard Round
+- [ ] Realize component with Login page
+- [ ] JWT Token 
+
+# Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
