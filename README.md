@@ -1,15 +1,17 @@
-# Dashboard Actuator
+## Dashboard Actuator
 
-## Overview
+### Overview
 
 ![app.jpg](docs/app.jpg)
 
 - [Roadmap](#roadmap)
-  - [1st](#simple-round)
-  - [2nd](#second-round)
-  - [3rd](#hard-round)
+  - [Easy](#easy)
+  - [Middle](#middle)
+  - [Hard](#hard)
+
+
 - [Angular](#angular)
-  - [Development server](#local-run-is-stable)
+  - [Development server](#development-server)
   - [Code scaffolding](#code-scaffolding)
   - [Build](#build)
   - [Running unit tests](#running-unit-tests)
@@ -17,21 +19,20 @@
   - [Further help](#further-help)
 
 
-## Roadmap
+### Roadmap
 
-### Simple Round
-- [x] Readme
+#### Easy
 - [x] Realize [backend](https://github.com/y-lazakovich/dashboard-watcher-back)
 - [x] Make a template with [front](docs/app.jpg)
 - [ ] Implement unit tests
 - [ ] Implement CheckStyle
 
-### Second Round
+#### Middle
 - [ ] GitHub Issue Board
 - [ ] Realize GitHub Action flow (CI)
 - [ ] Implement Redux (RxJS) for state management
 
-### Hard Round
+#### Hard
 - [ ] Realize component with Login page
 - [ ] JWT Token 
 
