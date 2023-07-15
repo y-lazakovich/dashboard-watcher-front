@@ -22,7 +22,7 @@
 ### Roadmap
 
 #### Easy
-- [x] Realize [backend](https://github.com/y-lazakovich/dashboard-watcher-back)
+- [x] Realize backend logic
 - [x] Make a template with [front](docs/app.jpg)
 - [ ] Implement unit tests
 - [ ] Implement CheckStyle
