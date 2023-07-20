@@ -153,7 +153,7 @@ export class DashboardComponent implements OnInit {
   }
 
   private getSystemHealth(): void {
-    this.dashboardService.getSystemHeath().subscribe(
+    this.dashboardService.getSystemHealth().subscribe(
       (response: SystemHealth) => {
         this.systemHealth = response;
         this.systemHealth.components.diskSpace.details.free = this.formatBytes(this.systemHealth.components.diskSpace.details.free);
